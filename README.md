@@ -1,3 +1,3 @@
 # Keymap
-<img src="keymap-drawer/sofle.svg" >
+<img src="keymap-drawer/eyelash_sofle.svg" >
 
